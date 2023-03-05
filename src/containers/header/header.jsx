@@ -11,10 +11,12 @@ const Header = () => {
           Let's Build Something Amazing with GPT-3 OpenAI
         </h1>
         <p>
-          Yet bed any for traveling assistance indulgence unpleasing. Not
-          thoughts all exercise blessing. Indulgence way everything joy
-          alteration boisterous the attachment. Party we years to order allow
-          asked of.
+          GPT-3 is considered a breakthrough in natural language processing due
+          to its high level of accuracy and the fact that it can generate highly
+          coherent and natural-sounding language that is difficult to
+          distinguish from human writing. It has numerous applications,
+          including chatbots, automated content creation, and language
+          translation, among others.
         </p>
         <div className='gpt3__header-content__input'>
           <input type='email' placeholder='Enter your email' />
